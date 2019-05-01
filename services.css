@@ -1,0 +1,13 @@
+header{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    color: rgb(17, 11, 11);
+}
+.box{
+    display: flex;
+    
+}
+
